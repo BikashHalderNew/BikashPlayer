@@ -37,7 +37,7 @@
 
 ✅ Aditya Halder Thanks For Fixed All Error Or Lovely Support 💕
 
-✅ [Team Yukki](https://GitHub.com/TeamYukki] Thanks For Create Yukki Music 💕
+✅ Team Yukki Thanks For Create Yukki Music 💕
 
 ✅ Thanks Py-tgcall
 
