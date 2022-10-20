@@ -37,8 +37,10 @@
 
 ✅ Aditya Halder Thanks For Fixed All Error Or Lovely Support 💕
 
-✅ Team Yukki Thanks For Create Yukki Music 💕
+### 🥳 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬 𝐅𝐨𝐫 𝐓𝐡𝐞𝐢𝐫 𝐒𝐨𝐮𝐫𝐜𝐞𝐬 🥳
 
-✅ Thanks Py-tgcall
+- [TeamYukki](https://github.com/teamyukki)
+- [Pyrogram](https://github.com/pyrogram/pyrogram)
+- [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 
-## 🥀 Powered By [@BikashHalder](https://t.me/Bikashhalder) & [@AdityaHalder](https://t.me/Adityahalder)
+## 🥀 Powered By [BikashHalder](https://t.me/Bikashhalder) & [AdityaHalder](https://t.me/Adityahalder)
