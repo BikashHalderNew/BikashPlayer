@@ -156,7 +156,7 @@ __**🌷 𝐁𝐢𝐤𝐚𝐬𝐡 𝐕𝐢𝐝𝐞𝐨 𝐓𝐫𝐚𝐜𝐤 𝐈
 📡 **𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝐋𝐢𝐧𝐤:** [👀 𝐕𝐢𝐞𝐰 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 📡]({channellink})
 🛡️ **𝐕𝐢𝐝𝐞𝐨 𝐋𝐢𝐧𝐤:** [📎 𝐋𝐢𝐧𝐤 📎]({link})
 
-🔍️ 𝐒𝐞𝐚𝐫𝐜𝐡𝐞𝐝 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 🌷 {Bikash.config.MUSIC_BOT_NAME}__"""
+🔍️ 𝐒𝐞𝐚𝐫𝐜𝐡𝐞𝐝 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 🌷 {config.MUSIC_BOT_NAME}__"""
             key = InlineKeyboardMarkup(
                 [
                     [
@@ -177,7 +177,7 @@ __**🌷 𝐁𝐢𝐤𝐚𝐬𝐡 𝐕𝐢𝐝𝐞𝐨 𝐓𝐫𝐚𝐜𝐤 𝐈
                 parse_mode="markdown",
                 reply_markup=key,
             )
-            if await is_on_off(Bikash.config.LOG):
+            if await is_on_off(config.LOG):
                 sender_id = message.from_user.id
                 sender_name = message.from_user.first_name
                 return await app.send_message(
