@@ -33,7 +33,7 @@
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/dashboard.deploy?new=https://github.com/bikashHaldernew/Bikashplayer)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/BikashHalderNew/BikashPlayer)
 
 #### Main Developer = [Bikash](https://t.me/BikashHalder)
 
